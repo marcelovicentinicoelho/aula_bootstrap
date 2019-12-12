@@ -1,0 +1,40 @@
+body
+{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+}
+
+.navbar
+{
+  background-color: green;
+}
+
+.quem-somos
+{
+  background-color: rgb(172, 172, 172);
+  color: white;
+}
+
+.parceiros
+{
+  background-color: rgb(153, 31, 31);
+  color: white;
+}
+
+.margin-img-parceiros
+{
+  padding-top: 150px;
+  padding-bottom: 200px;
+}
+
+.margin
+{
+  padding-top: 50px;
+  padding-bottom: 75px;
+}
+
+.bg-footer
+{
+  background-color: black;
+  color: white;
+}
